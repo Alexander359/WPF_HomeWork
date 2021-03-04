@@ -1,0 +1,6 @@
+    <Grid x:Name="MainBox" Background="DarkGray">
+        <Grid.ColumnDefinitions>
+            <RowDefinition
+        </Grid.ColumnDefinitions>
+
+    </Grid>
